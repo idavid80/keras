@@ -51,6 +51,9 @@ El código está organizado de manera que facilita el seguimiento del libro, con
 | **01** | Introducción a IA, ML, y DL | [01_Introduccion.ipynb] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idavid80/keras/blob/main/01_Introduccion/01_Introduccion.ipynb) |
 | **02** | Bloques Matemáticos | [02_Bloques_Matematicos.ipynb] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idavid80/keras/blob/main/02_Bloques_Matematicos/02_Bloques_Matematicos.ipynb) |
 | ... | ... | ... |
+
+---
+
 ## 📚 Sobre el Libro
 
 **Título:** Deep Learning with Python
@@ -64,6 +67,7 @@ El código está organizado de manera que facilita el seguimiento del libro, con
 **Enlace Oficial:** [Segunda edición](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff)
 
 ---
+
 🤝 Contribuciones y Debugging
 
 Si encuentras algún error en las implementaciones actualizadas o tienes sugerencias para mejorar el código, no dudes en abrir un issue o enviar un Pull Request.
